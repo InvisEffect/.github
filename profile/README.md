@@ -1,5 +1,9 @@
 <img width="1633" height="512" alt="Banner-production" src="https://github.com/user-attachments/assets/dd522518-8a42-4608-9f47-606292d990aa" />
 
+
+> [!IMPORTANT]
+> InvisEffect is no longer maintained is now archived by its original owner. All assets remaining can be donwloaded and published as you please.
+
 ---
 Welcome to InvisEffect, the best platform to bypass restrictions and content filtering
 
